@@ -49,6 +49,7 @@ test:
 #
 production:
   <<: *default
-  database: second_production
-  username: second
-  password: <%= ENV['SECOND_DATABASE_PASSWORD'] %>
+  database: qhf4jx8oi3zxpb6s
+  username: b2f5wsxjubkjhfo8
+  password: <%= ENV['l35714keojpp3lvk'] %>
+  url: <%= ENV['mysql://b2f5wsxjubkjhfo8:l35714keojpp3lvk@irkm0xtlo2pcmvvz.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/qhf4jx8oi3zxpb6s'] %>
